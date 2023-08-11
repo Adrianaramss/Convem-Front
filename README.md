@@ -1,27 +1,31 @@
-# ProjetoConvem
+# 📖 Sobre o projeto
+O projeto está dividido em dois repositórios: um para o backend e outro para o frontend. No frontend, os usuários têm a opção de indicar se desejam ou não participar da equipe da Convem. Se um usuário optar por participar ("sim"), ele avançará para a próxima etapa. No entanto, caso escolha não participar, será exibido um alerta de erro.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
+# 📱Layout 
 
-## Development server
+- Tela inicial
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![Captura de tela 2023-08-11 134304](https://github.com/Adrianaramss/Convem-Front/assets/111310311/324b54e0-733a-4b78-a478-eee9eff503c1)
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# 💻 Tecnologias utilizadas no Projeto
+- Angular 
+- css
+- html
+- Typescript 
+- integração de API 
 
-## Build
+# 🔗 Documentação Postman
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+https://documenter.getpostman.com/view/24460801/2s93kz55AE
 
-## Running unit tests
+# 🔗 Deploy projeto
+- Deploy Vercel: [Clique aqui!](https://convem-front-adriana.vercel.app/)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# 🔗 Repositório back-end
+- Repositório Back: [Clique aqui!](https://github.com/Adrianaramss/Convem---back)
+  
+# 📫 Contato
+E-mail - adrianascosta9@gmail.com
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-ramss/)
