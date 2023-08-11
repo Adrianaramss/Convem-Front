@@ -1,5 +1,5 @@
 # 📖 Sobre o projeto
-O projeto está dividido em dois repositórios: um para o backend e outro para o frontend. No frontend, os usuários têm a opção de indicar se desejam ou não participar da equipe da Convem. Se um usuário optar por participar ("sim"), ele avançará para a próxima etapa. No entanto, caso escolha não participar, será exibido um alerta de erro.
+O projeto foi estruturado em dois repositórios distintos: um para o backend e outro para o frontend. No frontend, os usuários são apresentados com a opção de expressar seu interesse em se juntar à equipe da Convem. Se um usuário escolher participar (selecionando "sim"), ele será direcionado para a próxima etapa do processo. No entanto, se o usuário optar por não participar (selecionando "não"), um alerta de erro será exibido para fornecer feedback sobre a escolha inválida.
 
 # 📱Layout 
 
