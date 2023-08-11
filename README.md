@@ -17,8 +17,7 @@ O projeto está dividido em dois repositórios: um para o backend e outro para o
 
 # 🔗 Documentação Postman
 
-https://documenter.getpostman.com/view/24460801/2s93kz55AE
-
+https://documenter.getpostman.com/view/24460801/2s9Xy3ts83
 # 🔗 Deploy projeto
 - Deploy Vercel: [Clique aqui!](https://convem-front-adriana.vercel.app/)
 
