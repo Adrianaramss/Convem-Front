@@ -1,0 +1,29 @@
+
+.app-background {
+    background-image: url("https://img.freepik.com/fotos-gratis/fundo-preto-abstrato-da-grade-digital_53876-97647.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container {
+    border: 2px solid #ccc;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 56px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 20px;
+  }
+  
+  h2 {
+    color: #010D0D;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+
+  }
+  
