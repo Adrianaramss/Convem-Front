@@ -5,7 +5,7 @@ O projeto está dividido em dois repositórios: um para o backend e outro para o
 
 - Tela inicial
 
-![Captura de tela 2023-08-11 134304](https://github.com/Adrianaramss/Convem-Front/assets/111310311/324b54e0-733a-4b78-a478-eee9eff503c1)
+![Captura de tela 2023-08-11 134304](https://github.com/Adrianaramss/Convem-Front/assets/111310311/2d2cf9ee-3253-4747-9633-3ef3ceda0260)
 
 
 # 💻 Tecnologias utilizadas no Projeto
