@@ -19,7 +19,7 @@ O projeto foi estruturado em dois repositórios distintos: um para o backend e o
 
 https://documenter.getpostman.com/view/24460801/2s9Xy3ts83
 # 🔗 Deploy projeto
-- Deploy Vercel: [Clique aqui!](https://convem-front-adriana.vercel.app/)
+- Deploy Vercel: [Clique aqui!](https://convem-front-adriana-4xikw7ukx-adrianaramss.vercel.app/)
 
 # 🔗 Repositório back-end
 - Repositório Back: [Clique aqui!](https://github.com/Adrianaramss/Convem---back)
